@@ -1,4 +1,3 @@
-<img width="4032" height="3024" alt="osaka" src="https://github.com/user-attachments/assets/87aeab04-6649-4ed8-bc45-d247d6759c43" />
 自己紹介Webページ
 
 📌 概要
@@ -26,6 +25,7 @@
 📷 画面イメージ
 
 <img width="4032" height="3024" alt="cake" src="https://github.com/user-attachments/assets/5914db15-5cd9-4766-997f-a2f31b59e0bc" />
+<img width="4032" height="3024" alt="osaka" src="https://github.com/user-attachments/assets/87aeab04-6649-4ed8-bc45-d247d6759c43" />
 
 ⸻
 
