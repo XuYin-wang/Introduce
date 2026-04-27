@@ -24,10 +24,12 @@
 
 📷 画面イメージ
 
-<img width="1444" height="907" alt="截屏2026-04-27 11 46 36" src="https://github.com/user-attachments/assets/9e13d436-4ffa-425b-813d-65a19d8a8eba" />
-<img width="1444" height="907" alt="截屏2026-04-27 11 46 28" src="https://github.com/user-attachments/assets/96e5ddc6-465f-4308-9a7b-7b48dbd33f58" />
+ページ1:
 <img width="1444" height="907" alt="截屏2026-04-27 11 46 22" src="https://github.com/user-attachments/assets/6c6757b9-b8ae-4394-8e24-fe6fe1bb9399" />
-
+ページ2:
+<img width="1444" height="907" alt="截屏2026-04-27 11 46 28" src="https://github.com/user-attachments/assets/96e5ddc6-465f-4308-9a7b-7b48dbd33f58" />
+ページ3:
+<img width="1444" height="907" alt="截屏2026-04-27 11 46 36" src="https://github.com/user-attachments/assets/9e13d436-4ffa-425b-813d-65a19d8a8eba" />
 
 ⸻
 
@@ -47,8 +49,7 @@ osaka.jpg
 ⸻
 
 💡 工夫した点
-	•	position: absolute と transform を使い、ページ遷移の<img width="4032" height="3024" alt="osaka" src="https://github.com/user-attachments/assets/63ab22f2-e6d9-467a-8436-b5ca3b78fa66" />
-実現
+	•	position: absolute と transform を使い、ページ遷移の実現
 	•	シンプルながら視覚的に分かりやすいUI設計
 	•	初心者でも理解しやすいコード構造
 
