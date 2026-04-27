@@ -35,10 +35,9 @@
 
 📁 ファイル構成
 
-Intruduce.html
-cake.jpg
-osaka.jpg
-
+│── Intruduce.html
+│── cake.jpg
+└── osaka.jpg
 
 ⸻
 
