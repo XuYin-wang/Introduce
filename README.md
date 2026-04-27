@@ -24,8 +24,10 @@
 
 📷 画面イメージ
 
-<img width="4032" height="3024" alt="cake" src="https://github.com/user-attachments/assets/5914db15-5cd9-4766-997f-a2f31b59e0bc" />
-<img width="4032" height="3024" alt="osaka" src="https://github.com/user-attachments/assets/87aeab04-6649-4ed8-bc45-d247d6759c43" />
+<img width="1444" height="907" alt="截屏2026-04-27 11 46 36" src="https://github.com/user-attachments/assets/9e13d436-4ffa-425b-813d-65a19d8a8eba" />
+<img width="1444" height="907" alt="截屏2026-04-27 11 46 28" src="https://github.com/user-attachments/assets/96e5ddc6-465f-4308-9a7b-7b48dbd33f58" />
+<img width="1444" height="907" alt="截屏2026-04-27 11 46 22" src="https://github.com/user-attachments/assets/6c6757b9-b8ae-4394-8e24-fe6fe1bb9399" />
+
 
 ⸻
 
